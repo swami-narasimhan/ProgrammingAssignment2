@@ -1,7 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Recreating Matrix Inversion based on example given.
 
-## Write a short comment describing this function
+## Setting, getting Inverse based on example givewn
 
 makeCacheMatrix <- function(x = matrix()) {
         mat <- NULL
